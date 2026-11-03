@@ -1,3 +1,7 @@
 theme: jekyll-theme-modernist
 title: A homepage
 description: Just a placeholder
+show_downloads: false
+github:
+  is_project_page: false
+
